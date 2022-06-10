@@ -14,7 +14,7 @@ struct student
    cin>>s[i].roll_no>>s[i].name>>s[i].age>>s[i].marks;
   
   }
- student s[I];
+ student s[i];
   for(i=1;i<=3;i++)
   {
    
